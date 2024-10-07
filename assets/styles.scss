@@ -10,6 +10,11 @@ body {
     font-family: poppins;
 }
 
+h1 { 
+    font-size: 26px;
+    color: #fff;
+}
+
 .card {
     position: relative;
     overflow: hidden;
@@ -93,4 +98,8 @@ body {
         opacity: 1;
         transform: translateY(0);
     }
+}
+.remember { 
+    font-size: 18px;
+    color: #fff;
 }
